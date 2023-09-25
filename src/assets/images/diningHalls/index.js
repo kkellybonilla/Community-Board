@@ -1,0 +1,10 @@
+export { default as arrillagaFamilyDiningCommons } from "./arrillaga-family-dining-commons.jpg";
+export { default as brannerDining } from "./branner-dining.jpg";
+export { default as evgrDining } from "./evgr-dining.jpg";
+export { default as florenceMooreDining } from "./florence-moore-dining.jpg";
+export { default as gerhardCasperDiningCommons } from "./gerhard-casper-dining-commons.jpg";
+export { default as lakesideDining } from "./lakeside-dining.jpg";
+export { default as rickerDining } from "./ricker-dining.jpg";
+export { default as sternDining } from "./stern-dining.jpg";
+export { default as suitesDining } from "./suites-dining.jpg";
+export { default as wilburDining } from "./wilbur-dining.jpg";
